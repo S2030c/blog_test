@@ -2,5 +2,11 @@ title: Blog
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
  Blog
+
  
 repository: "S2030c/blog"
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
